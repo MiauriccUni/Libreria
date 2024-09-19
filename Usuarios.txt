@@ -1,0 +1,4 @@
+1234432,Ximena,Pochos bar,@xime,234342
+345621,Porfirio,Alajuela,@xime,8171
+3456243,Antonio,España,@elgatoconbotas,501
+90976,Olger,De bochos mar,@geri,787787

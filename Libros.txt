@@ -1,0 +1,3 @@
+1234,Don Quijote,Miguel de Cervantes,Fantasia Psicologica,20
+4552,Cuervo,Edgar Allan Poe,El cuervo,1
+1235,El gato con Botas,Marco Antonio Solis,Autobiografia,30

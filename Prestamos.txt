@@ -1,0 +1,3 @@
+Libros{ISBN='1234', Titulo='Don Quijote', Autor='Miguel de Cervantes', Descipcion='Fantasia Psicologica', Cantidad=20}
+,Usuario{nombre='Ximena', direccion='Pochos bar', correo='@xime', celular='234342'}
+,2024-09-18,2024-09-25
